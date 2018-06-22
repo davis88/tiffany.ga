@@ -46,3 +46,7 @@ input, textarea, select {
 	margin:0;
 	padding:0px;
 }
+
+h1 > a > img {
+	margin-left: -200px;
+}
